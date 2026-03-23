@@ -124,20 +124,4 @@ The program successfully demonstrates abstraction and inheritance by computing t
 
 
 
-RegisterNumber:  
-*/
-```
-
-## SOURCE CODE:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
 ## RESULT:
